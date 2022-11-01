@@ -713,6 +713,11 @@ p {
     font-size: 18px!important;
 }
 
+.partenaires {
+    color: white;
+    border-bottom: 1px white solid;
+}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
@@ -784,7 +789,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #EC743C;
+    background-color: #3a3232;
 }
 
 .tc-white {
@@ -792,12 +797,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #EC743C;
+    background: #E62750;
     color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c04308!important;
+    background: #cf1f45e1!important;
     color: #FFFFFF!important;
 }
 
