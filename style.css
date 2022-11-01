@@ -132,7 +132,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: black;
 }
 
 .d-bloc .a-btn:hover,
@@ -706,8 +706,11 @@ p {
     margin: auto auto auto auto;
 }
 
-.icon-md {
-    font-size: 24px!important;
+.fa-twitter,
+.fa-facebook,
+.fa-dribbble,
+.fa-instagram {
+    font-size: 18px!important;
 }
 
 h2 {
