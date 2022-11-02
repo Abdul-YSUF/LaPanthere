@@ -439,7 +439,6 @@ nav .caret {
 
 .mg-md {
     margin-top: 10px;
-    margin-bottom: 20px;
 }
 
 .mg-lg {
@@ -459,7 +458,7 @@ nav .caret {
 .btn-d:hover,
 .btn-d:focus {
     color: #FFF;
-    background: rgba(0, 0, 0, .3);
+    background: #6c67687d;
 }
 
 button {
@@ -683,7 +682,7 @@ p {
 }
 
 .tight-width-whitespace {
-    max-width: 600px;
+    max-width: 1000px;
     margin: auto auto auto auto;
 }
 
@@ -711,6 +710,22 @@ p {
 .fa-dribbble,
 .fa-instagram {
     font-size: 18px!important;
+}
+
+.fa-twitter:hover {
+    color: #E62750 !important;
+}
+
+.fa-facebook:hover {
+    color: #E62750 !important;
+}
+
+.fa-dribbble:hover {
+    color: #E62750 !important;
+}
+
+.fa-instagram:hover {
+    color: #E62750 !important;
 }
 
 .partenaires {
@@ -758,13 +773,17 @@ h4 {
 }
 
 .portfolio-thumb {
-    margin-bottom: 24px;
+    margin-bottom: 20px;
     width: 100%;
 }
 
 .portfolio-row {
-    margin-bottom: 44px;
     margin-top: 50px;
+    width: 100%;
+}
+
+.space {
+    margin-bottom: 40px;
 }
 
 .avatar {
@@ -791,6 +810,10 @@ h4 {
 
 .bgc-atomic-tangerine {
     background-color: #3a3232;
+}
+
+.bgc-atomic-tangerine1 {
+    background-color: rgba(0, 0, 0, 0.621);
 }
 
 .tc-white {
@@ -834,6 +857,8 @@ h4 {
 
 .bg-lines-h2-bg {
     background-image: url("img/lines-h2-bg.png");
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 
 .bg-banniere {
