@@ -1,1 +1,1 @@
-# LaPanthere
+# La Panthère

@@ -813,7 +813,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine1 {
-    background-color: rgba(0, 0, 0, 0.621);
+    background-color: rgba(0, 0, 0, 0.03);
 }
 
 .tc-white {
@@ -856,7 +856,7 @@ h4 {
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img/lines-h2-bg.webp");
     padding-top: 0px;
     padding-bottom: 0px;
 }
