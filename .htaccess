@@ -14,7 +14,7 @@ mod_gzip_item_include handler ^cgi-script$
 # CACHE NAVIGATEUR
 # BEGIN Cache-Control Headers
 <IfModule mod_headers.c>
-<filesmatch "\\.(ico|jpe?g|png|bmp|woff|gif|swf|gz|ttf|webp)$">
+<filesmatch "\\.(ico|jpeg|png|bmp|woff|gif|swf|gz|ttf|webp|woff2|otf|svg|jpg|eot)$">
 Header set Cache-Control "max-age=31536000"
 </filesmatch>
 <filesmatch "\\.(css)$">
