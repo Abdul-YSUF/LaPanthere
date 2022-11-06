@@ -709,7 +709,7 @@ p {
 .fa-facebook,
 .fa-dribbble,
 .fa-instagram {
-    font-size: 18px!important;
+    font-size: 22px!important;
 }
 
 .fa-twitter:hover {
@@ -729,7 +729,6 @@ p {
 }
 
 .partenaires {
-    color: white;
     border-bottom: 1px white solid;
 }
 
